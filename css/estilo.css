@@ -1,0 +1,28 @@
+body{
+    background-color:#c9e2c4;}
+    
+    .img_topo{
+        width: 100%;
+    }
+    
+    figure{
+        text-align: center;
+    }
+     
+    .img_corpo{
+         width: 30%;
+        
+    }
+    
+    .container{ 
+        width: 80%;
+        margin: auto;
+    }
+    
+    P{
+       
+        font-size: 20px;
+        text-align: justify;
+        text-indent: 20px;
+    
+    }
