@@ -1,3 +1,3 @@
 # Prova-de-IW--site-em-dupla
-file:///C:/Users/LAB4/Desktop/SiteProva/index.html 
+https://gabrielgarcia05.github.io/Prova-de-IW--site-em-dupla/
 
